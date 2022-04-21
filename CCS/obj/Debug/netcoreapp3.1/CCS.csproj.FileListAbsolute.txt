@@ -1,0 +1,634 @@
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.AssemblyInfoInputs.cache
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.AssemblyInfo.cs
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.csproj.CoreCompileInputs.cache
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.MvcApplicationPartsAssemblyInfo.cache
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.RazorAssemblyInfo.cache
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.RazorAssemblyInfo.cs
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\appsettings.json
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Connected Services\LoginService\ConnectedService.json
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.exe
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.deps.json
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.runtimeconfig.json
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.runtimeconfig.dev.json
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.pdb
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.Views.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.Views.pdb
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Reflection.DispatchProxy.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\staticwebassets\CCS.StaticWebAssets.Manifest.cache
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\staticwebassets\CCS.StaticWebAssets.xml
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\scopedcss\bundle\CCS.styles.css
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.TagHelpers.input.cache
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.TagHelpers.output.cache
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.RazorCoreGenerate.cache
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Challenge\Index.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Login\AccessDenied.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Index.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.RazorTargetAssemblyInfo.cache
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.RazorTargetAssemblyInfo.cs
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.Views.pdb
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.csproj.CopyComplete
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.pdb
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.genruntimeconfig.cache
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Challenge\Create.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DeletePopUp.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Challenge\Edit.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.csproj.AssemblyReference.cache
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Challenge\AllActiveChallenges.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ActiveChallenge.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\libman.json
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\appsettings.json
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Connected Services\LoginService\ConnectedService.json
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\libman.json
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.exe
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.deps.json
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.runtimeconfig.json
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.runtimeconfig.dev.json
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.pdb
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.Views.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.Views.pdb
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Reflection.DispatchProxy.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.csproj.AssemblyReference.cache
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.AssemblyInfoInputs.cache
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.AssemblyInfo.cs
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.csproj.CoreCompileInputs.cache
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.MvcApplicationPartsAssemblyInfo.cache
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.RazorAssemblyInfo.cache
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.RazorAssemblyInfo.cs
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\staticwebassets\CCS.StaticWebAssets.Manifest.cache
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\staticwebassets\CCS.StaticWebAssets.xml
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\scopedcss\bundle\CCS.styles.css
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.TagHelpers.input.cache
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.TagHelpers.output.cache
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.RazorCoreGenerate.cache
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Challenge\AllActiveChallenges.cshtml.g.cs
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Challenge\Create.cshtml.g.cs
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Challenge\Edit.cshtml.g.cs
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Challenge\Index.cshtml.g.cs
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Login\AccessDenied.cshtml.g.cs
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ActiveChallenge.cshtml.g.cs
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DeletePopUp.cshtml.g.cs
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Index.cshtml.g.cs
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.RazorTargetAssemblyInfo.cache
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.RazorTargetAssemblyInfo.cs
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.Views.pdb
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.csproj.CopyComplete
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.dll
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.pdb
+H:\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.genruntimeconfig.cache
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\appsettings.json
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Connected Services\LoginService\ConnectedService.json
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.exe
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.deps.json
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.runtimeconfig.json
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.runtimeconfig.dev.json
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.pdb
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.Views.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.Views.pdb
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Reflection.DispatchProxy.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.AssemblyInfoInputs.cache
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.AssemblyInfo.cs
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.csproj.CoreCompileInputs.cache
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.MvcApplicationPartsAssemblyInfo.cache
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.RazorAssemblyInfo.cache
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.RazorAssemblyInfo.cs
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\staticwebassets\CCS.StaticWebAssets.Manifest.cache
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\staticwebassets\CCS.StaticWebAssets.xml
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\scopedcss\bundle\CCS.styles.css
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.TagHelpers.input.cache
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.TagHelpers.output.cache
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.RazorCoreGenerate.cache
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Challenge\Create.cshtml.g.cs
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Challenge\Edit.cshtml.g.cs
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Challenge\Index.cshtml.g.cs
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Login\AccessDenied.cshtml.g.cs
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DeletePopUp.cshtml.g.cs
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Index.cshtml.g.cs
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.RazorTargetAssemblyInfo.cache
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.RazorTargetAssemblyInfo.cs
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.Views.pdb
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.csproj.CopyComplete
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.pdb
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.genruntimeconfig.cache
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\appsettings.json
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Connected Services\LoginService\ConnectedService.json
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\libman.json
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.exe
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.deps.json
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.runtimeconfig.json
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.runtimeconfig.dev.json
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.pdb
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.Views.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\CCS.Views.pdb
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\AngleSharp.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\AngleSharp.Css.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\HtmlSanitizer.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Private.ServiceModel.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Reflection.DispatchProxy.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.Duplex.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.NetTcp.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.csproj.AssemblyReference.cache
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.AssemblyInfoInputs.cache
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.AssemblyInfo.cs
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.csproj.CoreCompileInputs.cache
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.MvcApplicationPartsAssemblyInfo.cache
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.RazorAssemblyInfo.cache
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.RazorAssemblyInfo.cs
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\staticwebassets\CCS.StaticWebAssets.Manifest.cache
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\staticwebassets\CCS.StaticWebAssets.xml
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\scopedcss\bundle\CCS.styles.css
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.TagHelpers.input.cache
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.TagHelpers.output.cache
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.RazorCoreGenerate.cache
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Challenge\AllActiveChallenges.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Challenge\Create.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Challenge\Edit.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Challenge\Index.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Login\AccessDenied.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AccessDenied.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ActiveChallenge.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DeletePopUp.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Student\Index.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Teacher\Index.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.RazorTargetAssemblyInfo.cache
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.RazorTargetAssemblyInfo.cs
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.Views.pdb
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.csproj.CopyComplete
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.dll
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.pdb
+\\hcfs2\home_students$\1631942\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.genruntimeconfig.cache
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\libman.json
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\AngleSharp.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\AngleSharp.Css.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\HtmlSanitizer.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AccessDenied.cshtml.g.cs
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.e_sqlite3.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\linux-s390x\native\libe_sqlite3.so
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\osx-arm64\native\libe_sqlite3.dylib
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\CCS.csproj.AssemblyReference.cache
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\bin\Debug\netcoreapp3.1\Nancy.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Parameter.cshtml.g.cs
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TestCase.cshtml.g.cs
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCS\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AllChallenges.cshtml.g.cs

@@ -1,0 +1,450 @@
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\obj\Debug\net5.0\CCSTest.csproj.AssemblyReference.cache
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\obj\Debug\net5.0\CCSTest.GeneratedMSBuildEditorConfig.editorconfig
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\obj\Debug\net5.0\CCSTest.AssemblyInfoInputs.cache
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\obj\Debug\net5.0\CCSTest.AssemblyInfo.cs
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\obj\Debug\net5.0\CCSTest.csproj.CoreCompileInputs.cache
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\testhost.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCS.Views.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCS.Views.pdb
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCS.deps.json
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCS.runtimeconfig.json
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCS.runtimeconfig.dev.json
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\appsettings.Development.json
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\appsettings.json
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Connected Services\LoginService\ConnectedService.json
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCS.exe
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\testhost.exe
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCSTest.deps.json
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCSTest.runtimeconfig.json
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCSTest.runtimeconfig.dev.json
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCSTest.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ref\CCSTest.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCSTest.pdb
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.Private.ServiceModel.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.Runtime.Caching.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.ServiceModel.Duplex.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.ServiceModel.Http.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.ServiceModel.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.ServiceModel.Security.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\xunit.abstractions.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\xunit.assert.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\xunit.core.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\xunit.execution.dotnet.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCS.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCS.pdb
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\obj\Debug\net5.0\CCSTest.csproj.CopyComplete
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\obj\Debug\net5.0\CCSTest.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\obj\Debug\net5.0\ref\CCSTest.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\obj\Debug\net5.0\CCSTest.pdb
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\obj\Debug\net5.0\CCSTest.genruntimeconfig.cache
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.Composition.Convention.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.Composition.Hosting.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.Composition.Runtime.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.Composition.TypedParts.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\hcfs2\home_students$\1631942\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\libman.json
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\appsettings.Development.json
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\appsettings.json
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Connected Services\LoginService\ConnectedService.json
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\libman.json
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\testhost.exe
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\testhost.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCS.Views.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCS.Views.pdb
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCS.deps.json
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCS.runtimeconfig.json
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCS.runtimeconfig.dev.json
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCS.exe
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCSTest.deps.json
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCSTest.runtimeconfig.json
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCSTest.runtimeconfig.dev.json
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCSTest.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ref\CCSTest.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCSTest.pdb
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\AngleSharp.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\AngleSharp.Css.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\HtmlSanitizer.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\NuGet.Frameworks.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.Composition.Convention.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.Composition.Hosting.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.Composition.Runtime.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.Composition.TypedParts.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.Private.ServiceModel.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.Runtime.Caching.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.ServiceModel.Duplex.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.ServiceModel.Http.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.ServiceModel.NetTcp.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.ServiceModel.Primitives.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.ServiceModel.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\System.ServiceModel.Security.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\xunit.abstractions.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\xunit.assert.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\xunit.core.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\xunit.execution.dotnet.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCS.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\CCS.pdb
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\obj\Debug\net5.0\CCSTest.csproj.AssemblyReference.cache
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\obj\Debug\net5.0\CCSTest.GeneratedMSBuildEditorConfig.editorconfig
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\obj\Debug\net5.0\CCSTest.AssemblyInfoInputs.cache
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\obj\Debug\net5.0\CCSTest.AssemblyInfo.cs
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\obj\Debug\net5.0\CCSTest.csproj.CoreCompileInputs.cache
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\obj\Debug\net5.0\CCSTest.csproj.CopyComplete
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\obj\Debug\net5.0\CCSTest.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\obj\Debug\net5.0\ref\CCSTest.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\obj\Debug\net5.0\CCSTest.pdb
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\obj\Debug\net5.0\CCSTest.genruntimeconfig.cache
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Castle.Core.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Moq.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\SQLitePCLRaw.provider.e_sqlite3.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\linux-s390x\native\libe_sqlite3.so
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Microsoft.Extensions.PlatformAbstractions.dll
+H:\420 Third Year\First semester\420-K40\Assignments\CCS_F21\CCSTest\bin\Debug\net5.0\Nancy.dll
